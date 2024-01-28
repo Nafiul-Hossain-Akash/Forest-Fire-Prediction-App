@@ -64,8 +64,16 @@ Implementation of advanced AI techniques for faster decision-making.
 Expansion of the app to cover a broader geographical area.
 This sample report provides an overview of the Forest Fire Prediction App development process using the **Waterfall Model**. Modify the content based on your project's specific details and requirements.
 
-## Submitted By:
-Name: MD. Nafiul Hossain Akash  ID: 2002016  Course Title: Software EngineeringCourse  Code: CSE 305  
+# Submitted By:
+##### Name: Md. Nafiul Hossain Akash  
+Student Id: 2002016   
+Level-3, Semester-I  
+Course Title: Software Engineering  
+Course code: CSE305  
 
-## Submitted to:
-Pankaj Bhowmik  Lecturer  Department of Computer Science and Engineering (CSE)  HSTU, Dinajpur
+# Submitted to:
+##### Pankaj Bhowmik  
+Lecturer  
+Department of Computer Science and Engineering (CSE)  
+HSTU, Dinajpur
+
