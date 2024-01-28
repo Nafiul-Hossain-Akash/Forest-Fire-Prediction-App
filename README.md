@@ -69,7 +69,7 @@ This sample report provides an overview of the Forest Fire Prediction App develo
 Student Id: 2002016   
 Level-3, Semester-I  
 Course Title: Software Engineering  
-Course code: CSE305  
+Course code: CSE 305  
 
 # Submitted to:
 ##### Pankaj Bhowmik  
